@@ -29,6 +29,7 @@ Chances are you purchased an item listed from another station. Press
 <kbd>Alt</kbd>-<kbd>T</kbd> to open the Assets window and figure out which station
 you bought it in, then fly to that station to pick it up. Purchasing an item does
 not magically move it to your current station.
+If you do not see the item you purchased in the Assets window, open the Wallet by pressing <kbd>Alt</kbd>-<kbd>W</kbd>, goto the 'Transactions' tab and check the 'Location' column.
 
 #### How can I find which station one of my items is in?
 Press <kbd>Alt</kbd>-<kbd>T</kbd> to open the Assets window which lists all of your assets
