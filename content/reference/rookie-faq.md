@@ -50,7 +50,7 @@ more detail you can look at the
 [UniWiki 'Asteroids and Ore' article](http://wiki.eveuniversity.org/Asteroids_and_Ore).
 
 #### Why does this asteroid belt not have any asteroids?
-Asteroid belts respawn once a day during the daily downtime (11:00 EVE time). In
+Asteroid belts get reseeded during daily downtime ( 11:00 UTC/EVE Time ) and, if left alone, grow over time. In
 highly-populated systems individual belts may get mined out quickly - try traveling
 to another system if all of the belts in your current system have been mined out,
 or [going to an asteroid anomaly](https://i.imgur.com/CSMNCc7.png) if there are any
